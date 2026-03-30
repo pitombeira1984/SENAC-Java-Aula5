@@ -1,0 +1,13 @@
+# Pastas de compilação e binários
+bin/
+*.class
+
+# Configurações específicas do Eclipse
+.settings/
+.project
+.classpath
+
+# Arquivos temporários do Sistema Operacional
+Thumbs.db
+.DS_Store
+
