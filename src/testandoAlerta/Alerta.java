@@ -13,5 +13,9 @@ public class Alerta {
 	public void mostraAlerta() {
 		JOptionPane.showMessageDialog(null, msg);
 	}
+	
+	public void mostraErro() {
+		JOptionPane.showMessageDialog(null, msg, "ERRO", 1);
+	}
 
 }
